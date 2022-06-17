@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroDex_2.0", "CroDex_2.0\CroDex_2.0.csproj", "{E52F830D-D188-49B9-8AE7-39C94078D174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E52F830D-D188-49B9-8AE7-39C94078D174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E52F830D-D188-49B9-8AE7-39C94078D174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E52F830D-D188-49B9-8AE7-39C94078D174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E52F830D-D188-49B9-8AE7-39C94078D174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0E6846C-28E6-4324-9ADE-6F19D500E163}
+	EndGlobalSection
+EndGlobal
